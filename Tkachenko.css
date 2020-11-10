@@ -1,0 +1,11 @@
+.colortext {
+    color: red;
+}
+.paragraph {
+    margin-top: 50px;
+}
+.im {
+    width : 200px;
+    height : 200px ;
+    alt : "Картинка";
+}
